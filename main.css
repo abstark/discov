@@ -1,0 +1,24 @@
+#home
+{
+	background-image: url('discover.jpg');
+	height: 1200px;
+	width: 100%;
+	background-size:100% 100%;
+	position: absolute;
+}
+.a
+{
+	background-image: url(images/maps.jpg);
+	background-size: 100% 100%;
+	height:150px;
+}
+.b
+{	
+	background-size: 100% 100%;
+	background-image: url('images/comment.jpg');
+	width:100%;
+
+
+
+
+}
