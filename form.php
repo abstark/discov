@@ -172,7 +172,7 @@ if(isset($_REQUEST['b']))
 		}
 	</script>
 	<script async defer
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuXpEmuqEKxwoRXl-rLtrkwJ9KyXWwArg&callback=initMap">
+	src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
 </script>
 
 </body>
